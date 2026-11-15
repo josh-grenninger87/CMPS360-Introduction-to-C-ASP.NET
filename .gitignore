@@ -1,0 +1,11 @@
+# Ignore compiled files
+bin/
+obj/
+
+# Ignore Visual Studio files
+.vs/
+.vscode/
+
+# Ignore temporary files
+*.user
+*.suo
